@@ -12,4 +12,4 @@ A full-stack blogging application where users can create, edit, delete, and view
 ## Technologies Used
 
 - **Front-End**: EJS, CSS, JavaScript
-- **Back-End**: Node.js, Express.js!
+- **Back-End**: Node.js, Express.js.
